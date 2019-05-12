@@ -1,5 +1,5 @@
 # hello-world
-Test test 1, 2
+Test test 1
 
 Test 1, 2, 3
 
